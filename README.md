@@ -1,4 +1,4 @@
-# ## [2018-08-20] Challenge #366 [Easy] Word funnel1
+# [2018-08-20] Challenge #366 [Easy] Word funnel1
 
 My attempt at the reddit /r/dailyprogrammer [Challenge #366 [Easy]](https://www.reddit.com/r/dailyprogrammer/comments/98ufvz/20180820_challenge_366_easy_word_funnel_1/)
 Completed using Python3
