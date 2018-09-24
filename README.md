@@ -7,6 +7,8 @@ Completed original challenge and the Optional Bonus 1.
 Did not complete bonus challenege 2.
 To run, save, edit, and run Python scripts.
 
+Challenge prompt from Reddit post below:
+~~~~~~~~~~~~~~~~~~~~~
 
 # Challenge
 
